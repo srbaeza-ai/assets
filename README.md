@@ -1,4 +1,4 @@
-# Trust Wallet Assets Info
+https://github.com/srbaeza-ai/Always-hopeful/blob/main/LICENSE# Trust Wallet Assets Info
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
